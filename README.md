@@ -5,4 +5,10 @@ npm install --save @fortawesome/fontawesome-free
 
 
 
+Criar projeto em React
+
+criar projeto em react com node.js
+npm i -g create-react-app
+npx create-react-app project-name
+npm start dentro do projeto criado
 
